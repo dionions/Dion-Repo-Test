@@ -7,5 +7,3 @@ elif choice == "red":
     print("This is my favorite color, too!")
 else:
     print(f"Your favorite color is {choice}")
-
-choice2 = input("What's your favorite animal? ")
